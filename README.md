@@ -35,7 +35,7 @@
 ## セットアップ
 
 ```bash
-git clone https://github.com/あなたのユーザー名/minutes-task-extractor.git
+git clone https://github.com/inabaaaa/minutes-task-extractor.git
 cd minutes-task-extractor
 pip3 install anthropic python-dotenv
 ```
